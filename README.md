@@ -38,7 +38,7 @@ exit(0);}
 
 ```
 ## OUTPUT
-<img width="537" alt="image" src="https://github.com/srishanth2006/Linux-File-IO-Systems-locking/assets/150319470/2f9b79f1-1bc7-446f-8a09-55e9ad7bba13">
+<img width="557" alt="image" src="https://github.com/srishanth2006/Linux-File-IO-Systems-locking/assets/150319470/cdb353d4-bf42-4d3e-bab2-2008b7c1eae9">
 
 
 
@@ -87,7 +87,8 @@ return 0;
 
 ## OUTPUT
 
-<img width="536" alt="image" src="https://github.com/srishanth2006/Linux-File-IO-Systems-locking/assets/150319470/14aed878-bcc2-4dee-b95a-ad22dbe3317f">
+<img width="463" alt="image" src="https://github.com/srishanth2006/Linux-File-IO-Systems-locking/assets/150319470/405c712f-28a0-4a35-8d49-1da2c46b3fd0">
+
 
 
 
